@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <defs>
+    <linearGradient id="app-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#faf5ff"/>
+      <stop offset="100%" stop-color="#f3e8ff"/>
+    </linearGradient>
+    <linearGradient id="app-icon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#7e22ce"/>
+    </linearGradient>
+  </defs>
+  <rect width="80" height="80" rx="20" fill="url(#app-bg)" stroke="#e9d5ff" stroke-width="2"/>
+  <rect x="22" y="16" width="36" height="48" rx="8" fill="none" stroke="url(#app-icon)" stroke-width="3"/>
+  <circle cx="40" cy="42" r="12" fill="none" stroke="url(#app-icon)" stroke-width="3"/>
+  <circle cx="40" cy="42" r="6" fill="url(#app-icon)" opacity="0.4"/>
+  <circle cx="32" cy="24" r="2.5" fill="url(#app-icon)"/>
+  <circle cx="40" cy="24" r="2.5" fill="url(#app-icon)"/>
+  <circle cx="48" cy="24" r="2.5" fill="url(#app-icon)"/>
+</svg>

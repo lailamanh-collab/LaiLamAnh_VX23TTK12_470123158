@@ -1,0 +1,6 @@
+export * from "./brands"
+export * from "./services"
+export * from "./phones"
+export * from "./branches"
+export * from "./avatars"
+export * from "./banners"

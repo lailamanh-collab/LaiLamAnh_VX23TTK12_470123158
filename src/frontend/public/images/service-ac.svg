@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <defs>
+    <linearGradient id="ac-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f0fdf4"/>
+      <stop offset="100%" stop-color="#dcfce7"/>
+    </linearGradient>
+    <linearGradient id="ac-icon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#15803d"/>
+    </linearGradient>
+  </defs>
+  <rect width="80" height="80" rx="20" fill="url(#ac-bg)" stroke="#bbf7d0" stroke-width="2"/>
+  <circle cx="40" cy="40" r="5" fill="url(#ac-icon)"/>
+  <path d="M40 18V62M18 40H62M25 25L55 55M25 55L55 25" stroke="url(#ac-icon)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M36 22L40 18L44 22M36 58L40 62L44 58M22 36L18 40L22 44M58 36L62 40L58 44" stroke="url(#ac-icon)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
